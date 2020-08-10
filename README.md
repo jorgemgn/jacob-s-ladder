@@ -30,6 +30,6 @@ Always follow the 5 golden rules.**
   
 ### Software licenses
 
-<img src="images/eplan.png" width="100"/> 
+<img src="images/autocad.png" width="100"/> 
 
-<https://www.eplaneducation.es/es/download-eplan-education/eplan-education>  
+<https://www.autodesk.com/education/free-software/autocad?_ga=2.186529646.677273030.1597095859-477852678.1596981201>  
