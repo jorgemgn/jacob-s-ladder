@@ -13,7 +13,7 @@
     
     *Instead of single-pole cables, it is recommended to use cable hoses*    
     
-- Wire insulated ferrules: (*optional*) 
+- Wire insulated ferrules: (*optional*)   
   <img src="../images/insulated-ferrules.png" width="100"/>   <img src="../images/insulated-connector.png" width="120"/> 
     - 1 x 10 0,75mm2 
     - 1 x 10 2,5mm2  
