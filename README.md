@@ -5,7 +5,7 @@
 <img src="images/ladder.gif" width="150"/>
   
 ### Author
-Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Automated Systems_
+Jorge Miguel González Novez  |  _Technician in Electrotechnical and Automated Systems_
 
 ### Wiring diagrams and images  
 - [Wiring](./docs/wiring.pdf)  
