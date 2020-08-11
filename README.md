@@ -13,7 +13,7 @@ Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Auto
 
 ### Materials  
 
-- [Materials](./docs/materials.md) TO-DO
+- [Materials](./docs/materials.md)
 
 ### Operating Instructions  
 
