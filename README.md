@@ -1,6 +1,10 @@
-# Jacob´s Ladder <img src=images/warning.gif/>
+# License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE.md)
+<img src="images/license_cc_by-nc-nd.png" width="200"/>
+
+- [More info about CC license](./images/cc-license.png)
+
+# Jacob´s Ladder <img src=images/warning.gif/>
 
 <img src="images/ladder.gif" width="150"/>
   
